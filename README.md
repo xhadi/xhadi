@@ -121,7 +121,7 @@ A hybrid ML security tool that classifies email and SMS messages as safe or phis
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xhadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hadi's GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xhadi&theme=tokyonight&hide_border=true" alt="Hadi's GitHub Streak"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=xhadi&theme=tokyonight&hide_border=true" alt="Hadi's GitHub Streak"/>
 </p>
 
 <p align="center">
