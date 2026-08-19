@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hadi-almubarak-677b14370">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/hadi-almubarak-677b14370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hadi.a.almubarak@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -120,12 +120,12 @@ A hybrid ML security tool that classifies email and SMS messages as safe or phis
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xhadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hadi's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xhadi&show_icons=true&theme=tokyonight&hide_border=true" alt="Hadi's GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=xhadi&theme=tokyonight&hide_border=true" alt="Hadi's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -133,11 +133,11 @@ A hybrid ML security tool that classifies email and SMS messages as safe or phis
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/hadi-almubarak-677b14370">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/hadi-almubarak-677b14370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hadi.a.almubarak@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hadi.a.almubarak%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
